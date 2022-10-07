@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akif98
+- 👋 Hi, I’m Muhammad Akif
 - 👀 I’m interested in python, c++ and SQL
 - 🌱 I’m currently learning python advanced
 - 📫 How to reach me ...
